@@ -1,0 +1,17 @@
+/**
+ * @name Custom Wallpaper
+ * @version 0.0.1
+ * @description A transparent theme to see your background image
+ * @author TMUniversal
+ * @authorId 237993001828352001
+ * 
+ * @donate https://ko-fi.com/tmuniversal
+ * @patreon https://www.patreon.com/tmuni
+ * @website https://tmuniversal.eu/
+ * @website https://github.com/TMUniversal/BetterDiscord/tree/main/Themes/Wallpaper
+ * @source https://raw.githubusercontent.com/TMUniversal/BetterDiscord/main/Themes/Wallpaper/css/source.css
+ */
+
+/* To change the background image, change the variable inside the root {}, do not change the @import url() */
+
+@import url(https://raw.githubusercontent.com/TMUniversal/BetterDiscord/main/Themes/Wallpaper/css/source.css);
