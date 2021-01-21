@@ -1,15 +1,3 @@
-/**
- * @name Custom Wallpaper
- * @version 0.0.1
- * @description A tweaked version of CapnKitten's "Translucence"
- * @author TMUniversal
- * @see https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Translucence/
- * 
- * @website https://tmuniversal.eu/
- * @source https://raw.githubusercontent.com/TMUniversal/BetterDiscord/main/Themes/Wallpaper/css/source.css
- * @donate https://ko-fi.com/tmuniversal
- */
-
 :root {
   --app-bg: url(https://i.imgur.com/3i1aFCx.jpg);
   --app-blur: 0px;
