@@ -28,7 +28,7 @@
   --messages-color: rgba(0, 0, 0, 0.3);
   --messages-radius: var(--app-radius);
   --messages-padding: 8px;
-  --mention-color: var(--mention-alt);
+  --mention-color: var(--app-accent-alt);
   --mention-rgb: var(--app-accent-rgb);
   --mention-alt: #5274e9;
   --notification-color: #fff;
