@@ -7,12 +7,12 @@
  * @authorId 237993001828352001
  * 
  * @website https://github.com/TMUniversal/BetterDiscord/tree/main/Themes/Wallpaper
- * @source https://raw.githubusercontent.com/TMUniversal/BetterDiscord/main/Themes/Wallpaper/css/source.css
+ * @source https://tmuniversal.github.io/BetterDiscord/Themes/Wallpaper/css/source.css
  * @donate https://ko-fi.com/tmuniversal
  * @patreon https://www.patreon.com/tmuni
  */
 
-@import url(https://raw.githubusercontent.com/TMUniversal/BetterDiscord/main/Themes/Wallpaper/css/source.css);
+@import url(https://tmuniversal.github.io/BetterDiscord/Themes/Wallpaper/css/source.css);
 
 :root {
   --app-bg: url(https://i.imgur.com/3i1aFCx.jpg);
